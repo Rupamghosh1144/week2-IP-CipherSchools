@@ -1,0 +1,141 @@
+ /* h1{ */
+    /* color: rgb(23, 241, 11); */
+    /* color: #ddd6dd;
+    background-color: crimson; */
+    /* 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f */
+/* }  */
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+} */
+/* body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+  } */
+
+
+  /* div{
+    background-color: brown;
+  } */
+
+/* 
+  #main{
+    background-color: brown;
+  }
+
+  .section{
+    background-color: darkblue;
+  }
+  p{
+    background-color: aqua;
+  } */
+
+
+  /* .class-red{
+    color: crimson;
+  }
+
+  .class-green{
+    color: green;
+  }
+
+  .bg-dark{
+    background-color: black;
+  } */
+
+/* h1,h2{
+    color: rgb(13, 240, 13);
+}
+
+.class{
+    background-color: grey;
+}
+.span{
+    background-color: aqua;
+} */
+
+
+/* 
+header{
+  background-color: rgb(191, 211, 211);
+}
+section.article{
+  background-color: rgb(226, 145, 161);
+
+}
+
+/* *{
+  color: blue;
+} */
+
+/* 
+p{
+  color: rgb(0, 255, 145);
+} */
+
+/* header p{
+  color: blue;
+}
+
+
+li a{
+  color: coral;
+} */
+
+
+/* section.article h2{
+  color: chartreuse;
+} */
+
+/* section.article > h2{
+  color: blueviolet;
+}
+
+h2+p{
+ color: darkgreen;
+}
+
+
+ul+p{
+  color: rgb(233, 18, 161);
+} */ 
+
+
+
+input[type="text" ]{
+  color: blue;
+}
+input[type="password"]{
+  background-color: pink;
+}
+
+
+a[href="https://www.google.co.in"]{
+   color: brown ;
+}
+
+a[href $= ".com"]{
+  color: rgb(219, 14, 120);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
